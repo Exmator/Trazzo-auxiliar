@@ -1,0 +1,18 @@
+package edu.javeriana.trazzo.ui.utils
+
+import androidx.compose.foundation.Image
+import androidx.compose.runtime.Composable
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.res.painterResource
+import edu.javeriana.trazzo.R
+
+@Composable
+fun LogoTrazzo(
+    modifier: Modifier = Modifier
+){
+    Image (
+        painter = painterResource(id = R.drawable.trazzo),
+        contentDescription = "Logo App",
+        modifier = modifier
+    )
+}

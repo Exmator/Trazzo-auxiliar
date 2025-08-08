@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Trazzo</string>
+    <string name="todos_los_derechos_reservados">Todos los derechos reservados</string>
+    <string name="bienvenido_a">Bienvenido a</string>
+    <string name="trazzo">Trazzo</string>
+    <string name="iniciar_sesion">Iniciar sesion</string>
+    <string name="registrarse">Registrarse</string>
+</resources>
